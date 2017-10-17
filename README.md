@@ -1,4 +1,5 @@
 # Dockerfile for jenkins-master
+a general dockerfile to build jenkins master, with LDAP, basic mailer, and plugins set up.
 
 ### to build the docker image
 ```
